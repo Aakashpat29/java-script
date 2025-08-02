@@ -48,7 +48,7 @@ console.log(1+2+"2"+2+2)
 console.log(true)
 console.log(+true)
 console.log(-true)
-console.log(*true)
+// console.log(*true) it show error because *true is nothing
 console.log(false)
 console.log(+false)
 console.log(-false)
