@@ -9,3 +9,6 @@ console.log(null >= 0)
 
 // === it is known as strict check it show value as well as datatypes.
 console.log("2" === 2)
+
+let heros = ["shaktiman", "nahds", "hjdbf"]
+console.log(heros)
